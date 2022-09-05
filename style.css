@@ -1,0 +1,25 @@
+#space {
+    width: 400px;
+    height: 500px;
+    display: flex;
+
+}
+
+.enemy {
+    background-color: red;
+    position: absolute;
+    
+}
+
+.user {
+    background-color: blue;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+}
+.fire {
+    background-color: black;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+}
